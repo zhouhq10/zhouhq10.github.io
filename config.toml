@@ -1,0 +1,44 @@
+baseurl = "https://zhouhq10.github.io"
+title = "Hanqi Zhou"
+theme = "hugo-theme-console"
+languageCode = "en-us"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[[', '\]]'], ['$$', '$$']]
+          inline = [['\((', '\))']]
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animate__zoomIn animate__fast"
+
+  math = true
+
+  [[params.navlinks]]
+  name = "</>"
+  url = "/"
+
+  [[params.navlinks]]
+  name = "research/"
+  url = "/research/"
+
+  [[params.navlinks]]
+  name = "talks/"
+  url = "/talks/"
+  
+  [[params.navlinks]]
+  name = "personal/"
+  url = "/personal/"
+  
+  [[params.navlinks]]
+  name = "letsChat/"
+  url = "/letsChat/"

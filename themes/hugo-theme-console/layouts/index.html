@@ -1,0 +1,52 @@
+{{ define "main" }}
+
+<head>
+    <link rel="stylesheet" href="/hugo-theme-console/css/test.css">
+</head>
+
+<h1>Hanqi Zhou</h1>
+
+<div style="display: flex; flex-direction: row; gap: 2em; max-width: 1000px; margin: 0 auto;">
+    <div style="flex: 0 0 300px;">
+        <img src="/images/hanqizhou.jpg" alt="Hanqi Zhou" style="width: 270px; height: 270px; border-radius: 3%; object-fit: cover; object-position: center;">
+    </div>
+    <div style="flex: 1;">
+        <p>
+            Hi there! Thank you for dropping by! I am Hanqi Zhou (周涵琪)
+            <a href="#" class="hover-link">
+                pronunciation
+                <span class="hidden-text">: qi is similar to 'chee' in cheese, Zh is most similar to 'j' in Bonjour. </span>
+            </a>
+        </p>
+    </p>
+    <p>
+    I am a PhD student at the 
+        <a href="https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/">University of Tübingen</a> and 
+        <a href="https://imprs.is.mpg.de/">International Max Planck Research School for Intelligent Systems (IMPRS-IS)</a>.  
+        
+    </p>
+    <p>
+    I work with <a href="https://hmc-lab.com/people/charley_wu/index.md">Charley Wu</a> at <a href="https://hmc-lab.com/">Human and Machine Cognition Lab</a> on computational models of human cognition.
+    </p>
+
+    <p>
+        News: I am currently visiting <a href="https://cicl.stanford.edu/">Causality in Cognition Lab (CiCL)</a> at Stanford University. Let's grab a coffee if you are around!
+    </p>
+    </div>
+</div>
+
+<style>
+@media (max-width: 768px) {
+    div[style*="display: flex"] {
+        flex-direction: column !important;
+    }
+    div[style*="flex: 0 0 300px"] {
+        flex: 0 0 auto !important;
+        margin-bottom: 1em;
+        display: flex !important;
+        justify-content: center !important;
+    }
+}
+</style>
+
+{{ end }}
