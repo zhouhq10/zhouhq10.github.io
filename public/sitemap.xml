@@ -4,51 +4,51 @@
     
         
         <url>
-            <loc>http://localhost:1313/</loc>
+            <loc>http://localhost:1313/themes/hugo-theme-console/layouts/</loc>
             <lastmod>2020-03-18T00:00:00+01:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/privacy/</loc>
+            <loc>http://localhost:1313/themes/hugo-theme-console/layouts/privacy/</loc>
             <lastmod>2020-03-18T00:00:00+01:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/letschat/</loc>
+            <loc>http://localhost:1313/themes/hugo-theme-console/layouts/letschat/</loc>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/personal/</loc>
+            <loc>http://localhost:1313/themes/hugo-theme-console/layouts/personal/</loc>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/research/</loc>
+            <loc>http://localhost:1313/themes/hugo-theme-console/layouts/research/</loc>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/talks/</loc>
+            <loc>http://localhost:1313/themes/hugo-theme-console/layouts/talks/</loc>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/categories/</loc>
+            <loc>http://localhost:1313/themes/hugo-theme-console/layouts/categories/</loc>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/tags/</loc>
+            <loc>http://localhost:1313/themes/hugo-theme-console/layouts/tags/</loc>
         </url>
         
     

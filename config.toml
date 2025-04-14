@@ -1,4 +1,4 @@
-baseurl = "https://zhouhq10.github.io"
+baseurl = "https://zhouhq10.github.io/themes/hugo-theme-console/layouts/"
 title = "Hanqi Zhou"
 theme = "hugo-theme-console"
 languageCode = "en-us"
