@@ -2,8 +2,6 @@ baseurl = "https://zhouhq10.github.io/"
 title = "Hanqi Zhou"
 theme = "hugo-theme-console"
 languageCode = "en-us"
-relativeURLs = true
-uglyURLs = true
 
 [markup]
   [markup.goldmark]
