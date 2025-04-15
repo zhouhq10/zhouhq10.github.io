@@ -1,4 +1,10 @@
-# Skiing
+---
+title: "Skiing"
+type: "page"
+layout: "single"
+# url: "/localhost:1313/personal/skiing/"
+---
+
 
 <div style="display: flex; justify-content: left; gap: 10px;">
     <figure style="text-align: center; margin: 0;">

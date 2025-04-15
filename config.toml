@@ -2,6 +2,8 @@ baseurl = "https://zhouhq10.github.io/"
 title = "Hanqi Zhou"
 theme = "hugo-theme-console"
 languageCode = "en-us"
+relativeURLs = true
+uglyURLs = true
 
 [markup]
   [markup.goldmark]
@@ -40,5 +42,5 @@ languageCode = "en-us"
   url = "/personal/"
   
   [[params.navlinks]]
-  name = "letsChat/"
-  url = "/letsChat/"
+  name = "letschat/"
+  url = "/letschat/"

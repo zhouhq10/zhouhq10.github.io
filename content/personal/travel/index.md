@@ -1,4 +1,9 @@
-# Travel
+---
+title: "Travel"
+type: "page"
+layout: "single"
+# url: "/zhouhq10.github.io/personal/travel/"
+---
 
 Little moments that made me pause :)
 
@@ -39,7 +44,7 @@ Little moments that made me pause :)
     </figure>
     <figure style="text-align: center; margin: 0;">
         <img src="photos/hamilton.jpg" alt="Gran Canaria, Spain" title="Gran Canaria, Spain" style="height: 350px; width: auto;">
-        <figcaption>Hamilton, Hamburg, Germany (Yes, it’s all in German. Yes, the rap still slaps ;)</figcaption>
+        <figcaption>Hamilton, Hamburg, Germany (Yes, it's all in German. Yes, the rap still slaps ;)</figcaption>
     </figure>
 </div>
 
