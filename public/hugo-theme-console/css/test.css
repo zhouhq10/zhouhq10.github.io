@@ -1,0 +1,29 @@
+/* New styles for hover effects */
+.link-like:hover {
+    background-color: var(--primary-color);
+    color: var(--invert-font-color);
+    cursor: pointer;
+}
+.hidden-text {
+    display: none;
+    transition: opacity 0.3s ease;
+    opacity: 0;
+}
+
+.hover-link:hover .hidden-text {
+    display: inline;
+    opacity: 1;
+}
+
+.hover-link {
+    font-size: 0.6em; /* Smaller font size */
+    color: grey; /* Grey color */
+    position: relative; /* Positioning for absolute elements */
+}
+
+.hover-link:hover {
+    font-size: 0.6em; /* Smaller font size */
+    color: grey; /* Grey color */
+    cursor: pointer;
+    background-color: transparent;
+}

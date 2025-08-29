@@ -1,5 +1,15 @@
 # Invited talks
+#### Agent-centric learning: from external reward maximization to internal knowledge curation
+Finding the Frame Workshop in Reinforcement Learning Conference, Edmonton, Canada |
+[Slides](/files/slides/agent_centric_rlc.pdf)
 
+#### Explaining ``how''
+Gerstenberg, Stanford, US | 
+[Slides]() (Coming)
+
+#### How we learn and teach structured knowledge by balancing curiosity and competence
+Gopnik, Berkeley, US | 
+[Slides](/files/slides/im_gopnik.pdf) 
 
 #### Modeling and improving human learning in structured domains
 Hawkins, Stanford, US | 
