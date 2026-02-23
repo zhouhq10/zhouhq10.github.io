@@ -17,15 +17,15 @@ xxx. Submitted.
 
 # Recent publications
 #### Agent-centric learning: from external reward maximization to internal knowledge curation
-Reinforcement Learning Conference (RLC 2025 Oral)
-[Published version](/files/papers/zhou2025agent) | [Poster](/files/posters/zhou2025agent.pdf) 
+Reinforcement Learning Conference (RLC 2025 Oral)  
+[Published version](/files/papers/zhou2025agent.pdf) | [Poster](/files/posters/zhou2025agent.pdf) 
 
 #### Analogy making as amortised model construction
-Reinforcement Learning Conference (RLC 2025 Oral)
-[Published version](/files/papers/nagy2025analogy)
+Reinforcement Learning Conference (RLC 2025 Oral)  
+[Published version](/files/papers/nagy2025analogy.pdf)
 
 #### Melody learning as resource-rational program induction
-Annual Conference of the Cognitive Science Society (CogSci 2025 Poster)
+Annual Conference of the Cognitive Science Society (CogSci 2025 Poster)  
 [Poster](/files/posters/zhou2025chord.pdf) | [Code]()
 
 #### The forest for the trees: global vs. local advice in human-AI interaction
