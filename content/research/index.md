@@ -18,18 +18,15 @@ xxx. Submitted.
 # Recent publications
 #### Agent-centric learning: from external reward maximization to internal knowledge curation
 Reinforcement Learning Conference (RLC 2025 Oral)
-
-[Published version]() | [Poster]() | [Code]() (Coming)
+[Published version](/files/papers/zhou2025agent) | [Poster](/files/posters/zhou2025agent.pdf) 
 
 #### Analogy making as amortised model construction
 Reinforcement Learning Conference (RLC 2025 Oral)
-
-[Published version]() | [Poster]() | [Code]() (Coming)
+[Published version](/files/papers/nagy2025analogy)
 
 #### Melody learning as resource-rational program induction
 Annual Conference of the Cognitive Science Society (CogSci 2025 Poster)
-
-[Published version]() | [Poster]() | [Code]() (Coming)
+[Poster](/files/posters/zhou2025chord.pdf) | [Code]()
 
 #### The forest for the trees: global vs. local advice in human-AI interaction
 Annual Conference of the Cognitive Science Society (CogSci 2025 Oral)  
@@ -39,7 +36,7 @@ Annual Conference of the Cognitive Science Society (CogSci 2025 Oral)
 Annual Conference of the Cognitive Science Society (CogSci 2025 Poster)  
 [Published version](/files/papers/mantiuk2025curiosity.pdf) | 
 [Poster](/files/posters/mantiuk2025curiosity.pdf) |
-[Code]()
+[Code](https://github.com/zhouhq10/empowerment-with-dreamer)
 
 #### Harmonizing program induction with rate-distortion theory
 Annual Conference of the Cognitive Science Society (CogSci 2024 Poster)  
