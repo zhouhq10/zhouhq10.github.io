@@ -7,22 +7,34 @@
 = Invited talks
 
 == Agent-centric learning: from external reward maximization to internal knowledge curation
-Finding the Frame Workshop, Reinforcement Learning Conference, Edmonton, Canada | #link("/files/slides/agent_centric_rlc.pdf")[Slides]
+#html.elem("p", attrs: (class: "pub-meta"), [
+  Finding the Frame Workshop, Reinforcement Learning Conference, Edmonton, Canada | #link("/files/slides/agent_centric_rlc.pdf")[Slides]
+])
 
 == Explaining "how"
-Gerstenberg, Stanford, US — slides coming soon.
+#html.elem("p", attrs: (class: "pub-meta"), [
+  Gerstenberg, Stanford, US — slides coming soon.
+])
 
 == How we learn and teach structured knowledge by balancing curiosity and competence
-Gopnik, Berkeley, US | #link("/files/slides/im_gopnik.pdf")[Slides]
+#html.elem("p", attrs: (class: "pub-meta"), [
+  Gopnik, Berkeley, US | #link("/files/slides/im_gopnik.pdf")[Slides]
+])
 
 == Modeling and improving human learning in structured domains
-Hawkins, Stanford, US | #link("/files/slides/program_hawkins.pdf")[Slides] | #link("https://www.youtube.com/watch?v=X2WH8mHJnhM")[Teaser]
+#html.elem("p", attrs: (class: "pub-meta"), [
+  Hawkins, Stanford, US | #link("/files/slides/program_hawkins.pdf")[Slides] | #link("https://www.youtube.com/watch?v=X2WH8mHJnhM")[Teaser]
+])
 
 == Predictive, scalable and interpretable knowledge tracing
-The Society for Empirical Educational Research (Gesellschaft für Empirische Bildungsforschung), Mannheim, Germany
+#html.elem("p", attrs: (class: "pub-meta"), [
+  The Society for Empirical Educational Research (Gesellschaft für Empirische Bildungsforschung), Mannheim, Germany
+])
 
 == Predictive, scalable and interpretable knowledge tracing
-Summerfield, Oxford, UK | #link("/files/slides/psikt_summerfield.pdf")[Slides]
+#html.elem("p", attrs: (class: "pub-meta"), [
+  Summerfield, Oxford, UK | #link("/files/slides/psikt_summerfield.pdf")[Slides]
+])
 
 = Reading groups
 

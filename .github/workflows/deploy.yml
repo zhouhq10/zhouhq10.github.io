@@ -2,7 +2,7 @@ name: Deploy
 
 on:
   push:
-    branches: [main, master]
+    branches: [tufted-redesign]
   workflow_dispatch:
 
 permissions:

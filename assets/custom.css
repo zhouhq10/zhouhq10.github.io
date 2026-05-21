@@ -94,6 +94,15 @@ h5 {
     opacity: 1;
 }
 
+/* Publication metadata (venue + links) under each paper title on Research page. */
+p.pub-meta {
+    font-size: 1rem;
+    color: #555;
+    margin-top: -0.2em;
+    margin-bottom: 1rem;
+    line-height: 1.45;
+}
+
 /* Scrollable news list on the homepage. */
 .news-list {
     max-height: 14rem;
