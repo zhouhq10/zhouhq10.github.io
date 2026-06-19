@@ -24,6 +24,7 @@ I am interested in how humans think, learn, and make decisions, especially when 
 == News
 
 #html.elem("ul", attrs: (class: "news-list"), {
+  html.elem("li", [*2026.06* — We are organizing #link("https://framing-the-problem.github.io/")[two workshops] on task representations, abstractions, and construals.])
   html.elem("li", [*2026.05* — Submitted my thesis (finally!).])
   html.elem("li", [*2025.12* — Presented a poster at NeurIPS in San Diego.])
   html.elem("li", [*2025.12* — Attended #link("https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25491")[Approaches and Applications of Inductive Programming] at Dagstuhl.])
