@@ -103,6 +103,48 @@ p.pub-meta {
     line-height: 1.45;
 }
 
+/* Table of contents at the top of long Writing posts. Built by toc.js. */
+.toc {
+    width: 55%;
+    margin: 1.5rem 0 2.5rem;
+    padding: 1rem 1.2rem;
+    border: 1px solid var(--highlight-weak);
+    border-radius: var(--radius-sm);
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+.toc-title {
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.72rem;
+    color: #999;
+    margin-bottom: 0.6em;
+}
+.toc ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.toc li {
+    margin: 0.15em 0;
+}
+.toc li.toc-h3 {
+    padding-left: 1.1rem;
+    font-size: 0.85rem;
+}
+.toc a {
+    color: #888;
+    text-decoration: none;
+    transition: color 0.12s ease;
+}
+.toc a:hover {
+    color: var(--theme-text);
+    text-decoration: underline;
+}
+@media (max-width: 760px) {
+    .toc { width: auto; }
+}
+
 /* Scrollable news list on the homepage. */
 .news-list {
     max-height: 14rem;
