@@ -1,7 +1,7 @@
 #import "../index.typ": template, tufted
 #show: template.with(
-  title: "Learning DAGs by Continuous Optimization",
-  description: "How continuous optimization reshaped DAG structure learning — the acyclicity trick behind NOTEARS, the wave of follow-up work, and where the open problems sit.",
+  title: "Learning DAGs by continuous optimization",
+  description: "How continuous optimization reshaped DAG structure learning.",
   date: datetime(year: 2022, month: 5, day: 2),
   lang: "en",
 )

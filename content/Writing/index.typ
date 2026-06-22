@@ -10,4 +10,5 @@ A place for slower thoughts, notes, essays, half-formed ideas. Less filtered tha
 
 == 2022
 
+- #link("2022-06-15-knowledge-tracing/")[Knowledge tracing: can we measure what someone knows?]
 - #link("2022-05-02-continuous-dag-structure-learning/")[Learning DAGs by continuous optimization]
