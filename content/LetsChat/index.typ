@@ -6,10 +6,9 @@
 
 = Let's chat
 
-You can reach me at *zhouhq10\@gmail.com*.
+You can reach me at…
 
-Find me elsewhere:
-
+- #link("mailto:zhouhq10@gmail.com")[Email]
 - #link("https://github.com/zhouhq10")[GitHub]
 - #link("https://x.com/hanqizh")[Twitter / X]
 - #link("https://bsky.app/profile/hanqizhou.bsky.social")[Bluesky]

@@ -14,28 +14,28 @@ Recent in my mind: not just _how_ we learn and make decisions, but _why_ we valu
 
 = Recent publications
 
+== Path-dependent program induction under resource constraints explains human sequence learning
+#html.elem("p", attrs: (class: "pub-meta"), [
+  Preprint (2026) — a preliminary version appeared at the Annual Conference of the Cognitive Science Society (CogSci 2025 Poster) \
+  #link("https://arxiv.org/abs/2606.20623")[Preprint] | #link("/files/posters/zhou2025chord.pdf")[Poster] | #link("https://github.com/zhouhq10/program-induction-rdt")[Code]
+])
+
 == Effective explanations support planning under uncertainty
 #html.elem("p", attrs: (class: "pub-meta"), [
   Annual Conference of the Cognitive Science Society (CogSci 2026 Oral) \
-  #link("/files/papers/zhou2026explanations.pdf")[Published version]
+  #link("/files/papers/zhou2026explanations.pdf")[Published version] | #link("https://github.com/cicl-stanford/explaining_how_cogsci26")[Code] | #link("/files/slides/zhou2026explanations.pdf")[Talk]
 ])
 
 == Agent-centric learning: from external reward maximization to internal knowledge curation
 #html.elem("p", attrs: (class: "pub-meta"), [
   Reinforcement Learning Conference (RLC 2025 Oral) \
-  #link("/files/papers/zhou2025agent.pdf")[Published version] | #link("/files/posters/zhou2025agent.pdf")[Poster]
+  #link("/files/papers/zhou2025agent.pdf")[Published version] | #link("/files/posters/zhou2025agent.pdf")[Poster] | #link("/files/slides/zhou2025agent.pdf")[Talk]
 ])
 
 == Analogy making as amortised model construction
 #html.elem("p", attrs: (class: "pub-meta"), [
   Reinforcement Learning Conference (RLC 2025 Oral) \
   #link("/files/papers/nagy2025analogy.pdf")[Published version]
-])
-
-== Melody learning as resource-rational program induction
-#html.elem("p", attrs: (class: "pub-meta"), [
-  Annual Conference of the Cognitive Science Society (CogSci 2025 Poster) \
-  #link("/files/posters/zhou2025chord.pdf")[Poster]
 ])
 
 == The forest for the trees: global vs. local advice in human-AI interaction
