@@ -83,7 +83,7 @@ Your text...
 
 Then add a link to it under the right year in `content/Writing/index.typ`. Posts under `/Writing/` are included in the RSS feed (`feed.xml`).
 
-**Images.** Put them next to the `.typ` that uses them and reference with a relative path, e.g. `#image("hanqizhou.jpg")`. Photo galleries live in per-section `photos/` folders (see `content/Skiing/`, `content/Travel/`).
+**Images.** Put them next to the `.typ` that uses them and reference with a relative path, e.g. `#image("hanqizhou.png")`. Photo galleries live in per-section `photos/` folders (see `content/Skiing/`, `content/Travel/`).
 
 ### Tufte features (the house style)
 

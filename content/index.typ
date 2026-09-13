@@ -2,7 +2,7 @@
 #show: template
 
 #tufted.margin-note[
-  #image("hanqizhou.jpg")
+  #image("hanqizhou.png")
 ]
 
 #let hover-note(text, tip) = html.elem(
