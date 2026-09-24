@@ -12,7 +12,7 @@
 
   website-title: "Hanqi Zhou",
   author: "Hanqi Zhou",
-  description: "Personal website of Hanqi Zhou, PhD student in computational cognitive science at the University of Tübingen.",
+  description: "Personal website of Hanqi Zhou, postdoctoral researcher in computational cognitive science at the University of Washington and UC Berkeley.",
   website-url: "https://zhouhq10.github.io/",
   lang: "en",
   feed-dir: ("/Writing/",),

@@ -15,9 +15,9 @@
 
 Hi there! Thank you for dropping by. I am Hanqi Zhou (周涵琪#hover-note("*", [_qi_ is similar to "chee" in cheese; _Zh_ is most similar to "j" in _Bonjour_.])).
 
-I am a PhD student at the #link("https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/")[University of Tübingen] and the #link("https://imprs.is.mpg.de/")[International Max Planck Research School for Intelligent Systems (IMPRS-IS)].
+I am a postdoctoral researcher working jointly with #link("https://faculty.washington.edu/maxkw/")[Max Kleiman-Weiner] at UW and #link("http://alisongopnik.com/")[Alison Gopnik] at UC Berkeley.
 
-I am supervised by #link("https://hmc-lab.com/people/charley_wu/index.md")[Charley Wu] at the #link("https://hmc-lab.com/")[Human and Machine Cognition Lab], where I work on computational models of human cognition. I also work closely with #link("https://www.mpg.de/12309370/biological-cybernetics-dayan")[Peter Dayan] and #link("https://motivationsciencelab.com/")[Kou Murayama].
+I did my PhD in computational cognitive science and computer science at the #link("https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/")[University of Tübingen] and #link("https://imprs.is.mpg.de/")[IMPRS-IS], supervised by #link("https://hmc-lab.com/people/charley_wu/index.md")[Charley Wu], and worked closely with #link("https://www.mpg.de/12309370/biological-cybernetics-dayan")[Peter Dayan] and #link("https://motivationsciencelab.com/")[Kou Murayama].
 
 I am interested in how humans think, learn, and make decisions, especially when we are short on computation and memory. I like to start from theory, build computational models (with symbolic representations, e.g. program induction), and test them through online experiments.
 
@@ -25,7 +25,7 @@ I am interested in how humans think, learn, and make decisions, especially when 
 
 #html.elem("ul", attrs: (class: "news-list"), {
   html.elem("li", [*2026.06* — We are organizing #link("https://framing-the-problem.github.io/")[two workshops] on task representations, abstractions, and construals.])
-  html.elem("li", [*2026.05* — Submitted my thesis (finally!).])
+  html.elem("li", [*2026.05* — Submitted my #link("https://publikationen.uni-tuebingen.de/xmlui/handle/10900/181799")[thesis] (finally!).])
   html.elem("li", [*2025.12* — Presented a poster at NeurIPS in San Diego.])
   html.elem("li", [*2025.12* — Attended #link("https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25491")[Approaches and Applications of Inductive Programming] at Dagstuhl.])
   html.elem("li", [*2025.08* — Presented a talk at RLC in Alberta.])

@@ -8,11 +8,17 @@
 
 I'm interested in how humans think, learn, and make decisions, especially when we are short on computation and memory. I like to start from theory and build computational models (with symbolic reps, e.g. program induction) and test them through online experiments.
 
-My PhD focuses on human resource rationality and intrinsic motivation, with a special interest in how these play out in real-world education.
+My PhD focused on human resource rationality and intrinsic motivation, with a special interest in how these play out in real-world education.
 
 Recent in my mind: not just _how_ we learn and make decisions, but _why_ we value certain outcomes in the first place. What shapes our sense of what's worth pursuing? How are our utility functions, our goals or values, formed over time? How do we model long-term influences like evolution and culture (religion or shared belief systems), as well as more immediate ones like communication (social interaction and family story) and, of course, pedagogy?
 
 = Recent publications
+
+== What is worth representing? Representational empowerment for continual model construction
+#html.elem("p", attrs: (class: "pub-meta"), [
+  Conference on Neural Information Processing Systems (NeurIPS 2026 Poster) \
+  #link("/files/papers/dai2026representing.pdf")[Preprint]
+])
 
 == Path-dependent program induction under resource constraints explains human sequence learning
 #html.elem("p", attrs: (class: "pub-meta"), [
