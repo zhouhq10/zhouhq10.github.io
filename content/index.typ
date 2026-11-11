@@ -15,7 +15,7 @@
 
 Hi there! Thank you for dropping by. I am Hanqi Zhou (周涵琪#hover-note("*", [_qi_ is similar to "chee" in cheese; _Zh_ is most similar to "j" in _Bonjour_.])).
 
-I am an incoming postdoctoral researcher, jointly hosted by #link("http://alisongopnik.com/")[Alison Gopnik] at UC Berkeley and #link("https://faculty.washington.edu/maxkw/")[Max Kleiman-Weiner] at UW.
+// I am an incoming postdoctoral researcher, jointly hosted by #link("http://alisongopnik.com/")[Alison Gopnik] at UC Berkeley and #link("https://faculty.washington.edu/maxkw/")[Max Kleiman-Weiner] at UW.
 
 I did my PhD in computational cognitive science at the #link("https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/")[University of Tübingen] and #link("https://imprs.is.mpg.de/")[IMPRS-IS], supervised by #link("https://hmc-lab.com/people/charley_wu/index.md")[Charley Wu] and #link("https://www.mpg.de/12309370/biological-cybernetics-dayan")[Peter Dayan], and worked closely with #link("https://motivationsciencelab.com/")[Kou Murayama].
 
